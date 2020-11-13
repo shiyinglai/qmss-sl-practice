@@ -4,6 +4,10 @@ version = "0.1.0"
 description = "This is a practice package."
 authors = ["Shiying Lai <sl4849@columbia.edu>"]
 license = "MIT"
+readme = "README.md"
+documentation = 'https://qmss-sl-practice.readthedocs.io'
+homepage = "https://github.com/shiyinglai/qmss-sl-practice"
+repository = "https://github.com/shiyinglai/qmss-sl-practice"
 
 
 
