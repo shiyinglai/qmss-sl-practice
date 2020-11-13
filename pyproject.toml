@@ -4,10 +4,7 @@ version = "0.1.0"
 description = "This is a practice package."
 authors = ["Shiying Lai <sl4849@columbia.edu>"]
 license = "MIT"
-readme = "README.md"
-documentation = 'https://qmsspkg.readthedocs.io'
-homepage = "https://github.com/QMSS-G5072-2020/qmsspkg"
-repository = "https://github.com/QMSS-G5072-2020/qmsspkg"
+
 
 
 [tool.poetry.dependencies]
